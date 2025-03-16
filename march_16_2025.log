@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex 2025.1.18)  16 MAR 2025 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex 2025.1.18)  16 MAR 2025 17:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/ramansh/aleph0_proofs/march_16_2025.tex
-(/home/ramansh/aleph0_proofs/march_16_2025.tex
+**./march_16_2025.tex
+(march_16_2025.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
 (/home/ramansh/.miktex/texmfs/install/tex/latex/base/article.cls
@@ -482,6 +482,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
 (/home/ramansh/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+1.
+
+(/home/ramansh/.miktex/texmfs/install/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 23.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -502,24 +508,17 @@ dvips/lm/lm-mathsy.enc}{/home/ramansh/.miktex/texmfs/install/fonts/enc/dvips/lm
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
-
-
-Package rerunfilecheck Warning: File `march_16_2025.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `march_16_2025.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  B999FC95CF17C26055E1B0062677E5E1;146.
+Package rerunfilecheck Info: File `march_16_2025.out' has not changed.
+(rerunfilecheck)             Checksum: B999FC95CF17C26055E1B0062677E5E1;146.
  ) 
 Here is how much of TeX's memory you used:
- 10999 strings out of 475473
- 167221 string characters out of 5766806
- 569663 words of memory out of 5000000
- 33811 multiletter control sequences out of 15000+600000
- 598892 words of font info for 73 fonts, out of 8000000 for 9000
+ 11048 strings out of 475473
+ 167947 string characters out of 5766806
+ 581649 words of memory out of 5000000
+ 33854 multiletter control sequences out of 15000+600000
+ 599210 words of font info for 74 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 75i,15n,79p,309b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,15n,79p,283b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/ramansh/.miktex/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></home
 /ramansh/.miktex/texmfs/install/fonts/type1/public/lm/lmex10.pfb></home/ramansh
 /.miktex/texmfs/install/fonts/type1/public/lm/lmmi10.pfb></home/ramansh/.miktex
@@ -528,12 +527,13 @@ nstall/fonts/type1/public/lm/lmr12.pfb></home/ramansh/.miktex/texmfs/install/fo
 nts/type1/public/lm/lmr17.pfb></home/ramansh/.miktex/texmfs/install/fonts/type1
 /public/lm/lmr7.pfb></home/ramansh/.miktex/texmfs/install/fonts/type1/public/lm
 /lmsy10.pfb></home/ramansh/.miktex/texmfs/install/fonts/type1/public/lm/lmsy7.p
-fb></home/ramansh/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/ms
-bm10.pfb>
-Output written on /home/ramansh/aleph0_proofs/march_16_2025.pdf (1 page, 151814
+fb></home/ramansh/.miktex/texmfs/install/fonts/type1/public/lm/lmtt12.pfb></hom
+e/ramansh/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+>
+Output written on /home/ramansh/aleph0_proofs/march_16_2025.pdf (1 page, 177431
  bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
+ 17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
